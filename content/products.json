@@ -1,0 +1,259 @@
+[
+  {
+    "slug": "janelas",
+    "title": "Janelas de alumínio",
+    "summary": "Luz e ventilação, nas medidas do seu ambiente.",
+    "openings": [
+      "Correr",
+      "Maxim-ar",
+      "Basculante"
+    ],
+    "applications": "Ambientes residenciais e comerciais",
+    "available": false,
+    "image": "",
+    "glass": [
+      "Temperado",
+      "Laminado",
+      "Incolor",
+      "Fumê",
+      "Verde",
+      "Serigrafado"
+    ],
+    "finishes": [
+      "Acabamento e cores a confirmar"
+    ],
+    "lines": [
+      "Linhas disponíveis a confirmar"
+    ]
+  },
+  {
+    "slug": "portas",
+    "title": "Portas de alumínio",
+    "summary": "Passagens que conectam espaços e arquitetura.",
+    "openings": [
+      "Correr",
+      "Pivotante",
+      "Camarão"
+    ],
+    "applications": "Acessos e integração de ambientes",
+    "available": false,
+    "image": "",
+    "glass": [
+      "Temperado",
+      "Laminado",
+      "Incolor",
+      "Fumê",
+      "Verde",
+      "Serigrafado"
+    ],
+    "finishes": [
+      "Acabamento e cores a confirmar"
+    ],
+    "lines": [
+      "Linhas disponíveis a confirmar"
+    ]
+  },
+  {
+    "slug": "box",
+    "title": "Box de banheiro",
+    "summary": "Transparência e organização para a área de banho.",
+    "openings": [
+      "Correr",
+      "Abrir"
+    ],
+    "applications": "Banheiros",
+    "available": false,
+    "image": "",
+    "glass": [
+      "Temperado",
+      "Laminado",
+      "Incolor",
+      "Fumê",
+      "Verde",
+      "Serigrafado"
+    ],
+    "finishes": [
+      "Acabamento e cores a confirmar"
+    ],
+    "lines": [
+      "Linhas disponíveis a confirmar"
+    ]
+  },
+  {
+    "slug": "guarda-corpos",
+    "title": "Guarda-corpos",
+    "summary": "Soluções para proteção e composição dos espaços.",
+    "openings": [
+      "Painel fixo"
+    ],
+    "applications": "Escadas, mezaninos e varandas",
+    "available": false,
+    "image": "",
+    "glass": [
+      "Temperado",
+      "Laminado",
+      "Incolor",
+      "Fumê",
+      "Verde",
+      "Serigrafado"
+    ],
+    "finishes": [
+      "Acabamento e cores a confirmar"
+    ],
+    "lines": [
+      "Linhas disponíveis a confirmar"
+    ]
+  },
+  {
+    "slug": "fachadas",
+    "title": "Fachadas e pele de vidro",
+    "summary": "Alumínio e vidro na composição da fachada.",
+    "openings": [
+      "Painel fixo",
+      "Maxim-ar"
+    ],
+    "applications": "Edificações residenciais e comerciais",
+    "available": false,
+    "image": "",
+    "glass": [
+      "Temperado",
+      "Laminado",
+      "Incolor",
+      "Fumê",
+      "Verde",
+      "Serigrafado"
+    ],
+    "finishes": [
+      "Acabamento e cores a confirmar"
+    ],
+    "lines": [
+      "Linhas disponíveis a confirmar"
+    ]
+  },
+  {
+    "slug": "portoes",
+    "title": "Portões",
+    "summary": "Acessos dimensionados para cada projeto.",
+    "openings": [
+      "Correr",
+      "Abrir"
+    ],
+    "applications": "Entradas de imóveis",
+    "available": false,
+    "image": "",
+    "glass": [
+      "Temperado",
+      "Laminado",
+      "Incolor",
+      "Fumê",
+      "Verde",
+      "Serigrafado"
+    ],
+    "finishes": [
+      "Acabamento e cores a confirmar"
+    ],
+    "lines": [
+      "Linhas disponíveis a confirmar"
+    ]
+  },
+  {
+    "slug": "varandas",
+    "title": "Fechamentos de varanda",
+    "summary": "Uma solução para estudar conforme a sua varanda.",
+    "openings": [
+      "A definir em projeto"
+    ],
+    "applications": "Varandas e áreas de convivência",
+    "available": false,
+    "image": "",
+    "glass": [
+      "Temperado",
+      "Laminado",
+      "Incolor",
+      "Fumê",
+      "Verde",
+      "Serigrafado"
+    ],
+    "finishes": [
+      "Acabamento e cores a confirmar"
+    ],
+    "lines": [
+      "Linhas disponíveis a confirmar"
+    ]
+  },
+  {
+    "slug": "espelhos",
+    "title": "Espelhos",
+    "summary": "Recortes e dimensões para compor o ambiente.",
+    "openings": [
+      "Painel fixo"
+    ],
+    "applications": "Interiores",
+    "available": false,
+    "image": "",
+    "glass": [
+      "Temperado",
+      "Laminado",
+      "Incolor",
+      "Fumê",
+      "Verde",
+      "Serigrafado"
+    ],
+    "finishes": [
+      "Acabamento e cores a confirmar"
+    ],
+    "lines": [
+      "Linhas disponíveis a confirmar"
+    ]
+  },
+  {
+    "slug": "pergolados",
+    "title": "Pergolados",
+    "summary": "Estruturas para compor áreas externas.",
+    "openings": [
+      "A definir em projeto"
+    ],
+    "applications": "Pátios e áreas externas",
+    "available": false,
+    "image": "",
+    "glass": [
+      "Temperado",
+      "Laminado",
+      "Incolor",
+      "Fumê",
+      "Verde",
+      "Serigrafado"
+    ],
+    "finishes": [
+      "Acabamento e cores a confirmar"
+    ],
+    "lines": [
+      "Linhas disponíveis a confirmar"
+    ]
+  },
+  {
+    "slug": "vidros",
+    "title": "Vidros temperados",
+    "summary": "Especificação conforme o uso e o projeto.",
+    "openings": [
+      "Painel fixo"
+    ],
+    "applications": "Aplicações a avaliar tecnicamente",
+    "available": false,
+    "image": "",
+    "glass": [
+      "Temperado",
+      "Laminado",
+      "Incolor",
+      "Fumê",
+      "Verde",
+      "Serigrafado"
+    ],
+    "finishes": [
+      "Acabamento e cores a confirmar"
+    ],
+    "lines": [
+      "Linhas disponíveis a confirmar"
+    ]
+  }
+]
