@@ -10,7 +10,7 @@
     ],
     "applications": "Ambientes residenciais e comerciais",
     "available": false,
-    "image": "",
+    "image": "/obras/luz-natural.png",
     "glass": [
       "Temperado",
       "Laminado",
@@ -37,7 +37,7 @@
     ],
     "applications": "Acessos e integração de ambientes",
     "available": false,
-    "image": "",
+    "image": "/obras/ambiente-familia.png",
     "glass": [
       "Temperado",
       "Laminado",
@@ -88,7 +88,7 @@
     ],
     "applications": "Escadas, mezaninos e varandas",
     "available": false,
-    "image": "",
+    "image": "/obras/detalhe-guarda-corpo.png",
     "glass": [
       "Temperado",
       "Laminado",
@@ -114,7 +114,7 @@
     ],
     "applications": "Edificações residenciais e comerciais",
     "available": false,
-    "image": "",
+    "image": "/obras/casa-contemporanea.png",
     "glass": [
       "Temperado",
       "Laminado",
@@ -240,7 +240,7 @@
     ],
     "applications": "Aplicações a avaliar tecnicamente",
     "available": false,
-    "image": "",
+    "image": "/obras/conexao-ambientes.png",
     "glass": [
       "Temperado",
       "Laminado",

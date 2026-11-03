@@ -12,3 +12,15 @@ nav>a:hover{color:#f3827b}
 .footer-brand .carmel-logo{width:190px}
 footer{background:#25292b}
 @media(max-width:800px){header{height:116px}.carmel-logo{width:126px}nav{top:116px;background:#25292b;border-color:#424749}.menu-toggle{color:white}.footer-brand .carmel-logo{width:170px}}
+
+/* Acervo fornecido: enquadramento integral preserva logos e textos. */
+.photo-supplied{background:#e4e2db;aspect-ratio: .95;min-height:0;border:0}
+.photo-hero.photo-supplied{aspect-ratio:907/806;min-height:0;align-self:stretch;background:#e2e2db}
+.works-grid .photo-supplied{aspect-ratio: .83;min-height:0}
+.inspiration-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:28px}
+.inspiration-grid figure{margin:0}
+.inspiration-grid .photo{aspect-ratio: .83}
+.inspiration-grid figcaption{border-top:1px solid var(--line);padding-top:15px;margin-top:18px;font-family:var(--font-display);font-size:18px;letter-spacing:-.02em}
+@media(max-width:800px){.photo-hero.photo-supplied{aspect-ratio:907/806}.inspiration-grid{grid-template-columns:1fr;gap:36px}.inspiration-grid .photo{aspect-ratio:auto;height:auto;min-height:0}.inspiration-grid .photo img{position:relative!important;height:auto!important;width:100%!important}.hero-copy{padding-top:48px}.photo-hero.photo-supplied img{object-fit:contain}}
+
+.hero{grid-template-columns:minmax(0,45fr) minmax(0,55fr)}.photo{min-width:0;width:100%}.photo-hero.photo-supplied{aspect-ratio:auto}.hero-copy{min-width:0}@media(max-width:800px){.hero{grid-template-columns:minmax(0,1fr)}.photo-hero.photo-supplied{aspect-ratio:907/806}}
