@@ -26,3 +26,11 @@ footer{background:#25292b}
 .hero{grid-template-columns:minmax(0,45fr) minmax(0,55fr)}.photo{min-width:0;width:100%}.photo-hero.photo-supplied{aspect-ratio:auto}.hero-copy{min-width:0}@media(max-width:800px){.hero{grid-template-columns:minmax(0,1fr)}.photo-hero.photo-supplied{aspect-ratio:907/806}}
 
 .image-credit{position:absolute;bottom:12px;left:12px;right:auto;max-width:calc(100% - 24px);padding:5px 9px;background:#202321dc;color:#fff;font-size:9px;letter-spacing:.04em;z-index:2}.photo:has(.image-credit){aspect-ratio:4/3}
+
+/* Composição fotográfica das seções de aberturas e projetos. */
+.opening-photos{display:grid;grid-template-columns:1fr 1fr;gap:30px;margin-top:56px}
+.opening-photos figure{margin:0;min-width:0}
+.opening-photos .photo{aspect-ratio:4/3;background:#30352f}
+.opening-photos figcaption{font-size:11px;color:#c1c6bc;margin-top:15px;letter-spacing:.03em}
+.project-highlights .photo{aspect-ratio:4/3;min-height:0}
+@media(max-width:800px){.opening-photos{gap:28px;grid-template-columns:1fr;margin-top:36px}.opening-photos .photo{aspect-ratio:1}.project-highlights .photo{aspect-ratio:4/3}}
