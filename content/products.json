@@ -63,7 +63,7 @@
     ],
     "applications": "Banheiros",
     "available": false,
-    "image": "",
+    "image": "/obras/ilustracoes/box.png",
     "glass": [
       "Temperado",
       "Laminado",
@@ -140,7 +140,7 @@
     ],
     "applications": "Entradas de imóveis",
     "available": false,
-    "image": "",
+    "image": "/obras/ilustracoes/portao.png",
     "glass": [
       "Temperado",
       "Laminado",
@@ -165,7 +165,7 @@
     ],
     "applications": "Varandas e áreas de convivência",
     "available": false,
-    "image": "",
+    "image": "/obras/casa-contemporanea.png",
     "glass": [
       "Temperado",
       "Laminado",
@@ -190,7 +190,7 @@
     ],
     "applications": "Interiores",
     "available": false,
-    "image": "",
+    "image": "/obras/ilustracoes/box.png",
     "glass": [
       "Temperado",
       "Laminado",
@@ -215,7 +215,7 @@
     ],
     "applications": "Pátios e áreas externas",
     "available": false,
-    "image": "",
+    "image": "/obras/ilustracoes/pergolado.png",
     "glass": [
       "Temperado",
       "Laminado",

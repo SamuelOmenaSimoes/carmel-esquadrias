@@ -68,3 +68,6 @@ Lighthouse mobile 90+ é uma meta, não resultado certificado. Auditar o deploy 
 
 ## Verificação desta entrega
 Build de produção concluído, checagem TypeScript aprovada e 9 testes automatizados aprovados. HTTP 200 nas páginas representativas, sitemap, robots e Open Graph; API retornou 403 sem Origin e 503 sem credenciais. Página inicial inspecionada visualmente em desktop. Automação do fluxo de formulário foi interrompida por timeout do navegador; teste móvel, Lighthouse e envio real de e-mail seguem pendentes.
+
+## Imagens ilustrativas adicionais
+A pedido do cliente, foram adicionadas imagens geradas com a ferramenta integrada ImageGen em `public/obras/ilustracoes/`. São referências visuais, não registros da fábrica ou de obras Carmel. O componente Photo mostra essa identificação. As imagens enviadas pelo cliente foram preservadas. Prompts e procedência em ASSETS.md.
