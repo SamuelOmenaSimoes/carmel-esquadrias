@@ -3,7 +3,9 @@
 Next.js App Router + TypeScript + Tailwind CSS + Framer Motion. Preparado para Vercel. Conteúdo em português do Brasil; imagens externas não são utilizadas.
 
 ## Executar
-Node 22 ou superior. `npm ci`, `npm run dev`; abrir http://localhost:3000. Produção: `npm run build` e `npm start`. Verificar tipos: `npm run typecheck`.
+Node 22.18 ou superior. `npm ci`, `npm run dev`; abrir http://localhost:3000. Produção: `npm run build` e `npm start`. Verificar tipos: `npm run typecheck`. Testes de segurança: `npm test`.
+
+Build configurado com Webpack por incompatibilidade observada do Turbopack com subprocessos neste Windows. Fontes incluídas localmente via Fontsource, sem download do Google durante o build.
 
 ## Conteúdo sem alterar componentes
 Edite os arquivos JSON em `content/` usando um editor de texto ou a interface de edição de arquivos do GitHub. Preserve a sintaxe JSON (aspas duplas e vírgulas). Não é necessário alterar arquivos TSX. Mudanças entram no ar após novo deploy. Não há CMS visual nesta entrega.
@@ -63,3 +65,6 @@ Lighthouse mobile 90+ é uma meta, não resultado certificado. Auditar o deploy 
 - Comprovações de normas/certificações, caso se pretenda publicar alegações.
 - Acesso Vercel/DNS, conta Resend com domínio verificado e Upstash.
 - Razão social, identificação do controlador, política interna de retenção e revisão da política de privacidade antes da publicação.
+
+## Verificação desta entrega
+Build de produção concluído, checagem TypeScript aprovada e 9 testes automatizados aprovados. HTTP 200 nas páginas representativas, sitemap, robots e Open Graph; API retornou 403 sem Origin e 503 sem credenciais. Página inicial inspecionada visualmente em desktop. Automação do fluxo de formulário foi interrompida por timeout do navegador; teste móvel, Lighthouse e envio real de e-mail seguem pendentes.
